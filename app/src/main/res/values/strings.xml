@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="output">2*4-5/3+8</string>
+</resources>
